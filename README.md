@@ -9,3 +9,5 @@ TAB - change color;
 -/+ - change height;
 
 Q/E - Zoom in / Zoom out;
+
+You will need a school 42 homebrew MLX library in order to run this project.
